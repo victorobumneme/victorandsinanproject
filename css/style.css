@@ -1,6 +1,60 @@
+
 @@media query {
 
 }
-nav{
-  display:flex;
+body{
+  background-color: bisque;
+
 }
+#navbar {
+  background-color: #BE3144;
+  width: 1350px;
+  height: 50px;
+  padding-left: 1000px; 
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  padding-top: 30px;
+}
+  
+
+
+li {
+  display: inline;
+  text-decoration: none;
+  margin-left: 200px;
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+
+}
+h2 {
+  text-align: center;
+
+}
+
+.mypic{
+  margin-left: 400px;
+  width: 80%;
+  height: 80%;
+
+}
+.mywork{
+
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+}
+.myinfo{
+  text-align: center;
+  width: 50%;
+  margin-left: 350px;
+}
+.second-p{
+  text-align: center;
+  width: 50%;
+  margin-left: 350px;
+}
+

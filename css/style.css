@@ -3,10 +3,13 @@
 
 }
 body{
-  background-color: bisque;
-
+  margin: 0px;
+  padding: 0px;
+  background-color: #232426;
+  width: 100vw;
 }
 #navbar {
+  position: fixed;
   background-color: #BE3144;
   width: 1350px;
   height: 50px;
@@ -16,12 +19,18 @@ body{
   font-size: 25px;
   padding-top: 30px;
 }
+.aboutme{
   
 
+}
 
 li {
   display: inline;
-  text-decoration: none;
+}
+
+a {
+  
+  
   margin-left: 200px;
 }
 h1 {
